@@ -17,3 +17,12 @@
 *git checkout <номер коммита>* - **перемещение к коммиту с определенным номером**
 
 *git checkout master* - **перемещение к актуальному состоянию репозитория**
+
+## Полезные ссылки по GIT и Markdown
+
+[Официальный сайт GIT](https://git-scm.com/ "GIT")
+![GIT](git.jpg)
+
+[Тренажер по Git](https://learngitbranching.js.org/)
+
+[Краткое руководство по Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
