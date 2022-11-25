@@ -17,3 +17,12 @@
 *git checkout <номер коммита>* - **перемещение к коммиту с определенным номером**
 
 *git checkout master* - **перемещение к актуальному состоянию репозитория**
+
+## Github
+
+[Официальный сайт Github](https://github.com/)
+![Github](github.png)
+
+[Основные команды для Git и Github](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
+
+[12 возможностей Github](https://javarush.com/groups/posts/1820-12-potrjasajujshikh-vozmozhnostey-github)
