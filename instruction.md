@@ -49,3 +49,8 @@
 [Основные команды для Git и Github](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
 
 [12 возможностей Github](https://javarush.com/groups/posts/1820-12-potrjasajujshikh-vozmozhnostey-github)
+## Полезные цитаты от создателя Git Линуса Торвальдса
+
+>Интеллект — это способность избегать выполнения работы, но так, чтобы она при этом была сделана.
+
+>Программы — как секс: лучше, когда бесплатно.
