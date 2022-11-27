@@ -39,3 +39,5 @@
 [Тренажер по Git](https://learngitbranching.js.org/)
 
 [Краткое руководство по Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
+## Список основных команд по Git
+![Commands Git](git_commands.jpg)
