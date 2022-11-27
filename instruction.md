@@ -31,3 +31,11 @@
 *git branch -d <branch_name>* - **удаление уже слитой ветки**
 
 *git log --graph* - **вывод журнала изменений с визуализацией**
+## Полезные ссылки по GIT и Markdown
+
+[Официальный сайт GIT](https://git-scm.com/ "GIT")
+![GIT](git.jpg)
+
+[Тренажер по Git](https://learngitbranching.js.org/)
+
+[Краткое руководство по Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
